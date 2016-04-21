@@ -111,7 +111,7 @@ Cluster Key:  t8jhfhkm
 Now use 'orisync add' to register repositories.
 user@orifs-ubuntu2:~/testsync$ ori replicate user@10.0.105.27:testfs
 Cloning from user@10.0.105.27:testfs to /home/user/.ori/testfs.ori
-The authenticity of host '10.0.105.27 (10.0.105.27)' can`t be established.
+The authenticity of host '10.0.105.27 (10.0.105.27)' cant be established.
 ECDSA key fingerprint is 7a:f6:b4:13:fb:66:82:49:3c:2e:4d:2e:5e:7b:af:2f.
 Are you sure you want to continue connecting (yes/no)? yes
 Warning: Permanently added '10.0.105.27' (ECDSA) to the list of known hosts.
